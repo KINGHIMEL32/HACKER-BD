@@ -1,5 +1,7 @@
 # tasting1
+
 I WELL FACK U
+
 pip install requests
 
 pip install rich 
@@ -14,7 +16,7 @@ pip uninstall requests chardet urllib3 idna certifi -y;
 
 pip install chardet urllib3 idna certifi requestshttps
 
-://github.com/KINGHIMEL32/tasting1.git
+git clone https://github.com/KINGHIMEL32/HACKER-BD.git
 
 cd tasting
 
