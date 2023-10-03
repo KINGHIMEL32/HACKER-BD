@@ -427,7 +427,7 @@ class Main:
 		print("\033[1;33m     ●▬▬▬▬▬▬▬▬▬▬▬▬●\033[1;37m๑۩♡۩๑\033[1;33m●▬▬▬▬▬▬▬▬▬▬▬▬●")
 		print("\033[1;37m                   KING HIMEL")
 		print("\033[1;33m     ●▬▬▬▬▬▬▬▬▬▬▬▬●\033[1;37m๑۩♡۩๑\033[1;33m●▬▬▬▬▬▬▬▬▬▬▬▬●")
-		print(" \033[1;39m━▷\033[1;32m [1] FOLLO FACEBOOK FOR APPROVED")
+		print(" \033[1;39m━▷\033[1;32m [1] FOLLOW FACEBOOK FOR APPROVED")
 		print(" \033[1;39m━▷\033[1;31m [2] Exit")
 		print("")
 		baloch = input("\n\033[1;37m  \033[1;35mChoice \033[1;37m━━> \033[1;32m")
